@@ -1,5 +1,5 @@
 ## Hello 👋
-[[![wakatime](https://wakatime.com/badge/user/46e55d7a-b4bd-482c-a991-7987b2a5e706.svg)]
+[![wakatime](https://wakatime.com/badge/user/46e55d7a-b4bd-482c-a991-7987b2a5e706.svg)]
 
 ### Top Languages in My Repositories📊 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanataa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
