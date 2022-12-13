@@ -2,7 +2,7 @@
 ### Badge
 [![@suryanataa's Holopin board](https://holopin.me/suryanataa)](https://holopin.io/@suryanataa)
 ### Top Languages in My Repositories📊 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suryanataa)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suryanataa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### Trophy ✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=Suryanataa)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
