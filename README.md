@@ -5,7 +5,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanataa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Trophy ✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=Suryanataa)](https://github.com/ryo-ma/github-profile-trophy)
-![HAH](https://raw.githubusercontent.com/Suryanataa/Suryanataa/output/github-contribution-grid-snake.svg)
 <!--
 **Suryanataa/Suryanataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
