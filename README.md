@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **reactjs, flutter, and frontend technology**
 
-- 📫 How to reach me **surya.nata.aardhana@gmail.com**
+- 📫 How to reach me **https://linktr.ee/snataardhana**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
