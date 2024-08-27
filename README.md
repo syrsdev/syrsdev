@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning **reactjs, flutter, and frontend technology**
 
+- - 😄 Pronouns: He/Him
+
 - 📫 How to reach me **https://linktr.ee/snataardhana**
 
 <h3 align="left">Connect with me:</h3>
