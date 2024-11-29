@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 📫 How to reach me **https://linktr.ee/snataardhana**
+- 📫 How to reach me **https://linktr.ee/syrsdev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
