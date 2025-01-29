@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surya Nata Ardhana</h1>
 
-- 🌱 I’m currently learning **reactjs, flutter, and frontend technology**
+- 🌱 I’m currently learning **nextjs, flutter, and frontend technology**
 
 - 😄 Pronouns: He/Him
 
