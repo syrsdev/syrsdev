@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Nata Ardhana</h1>
 
 - 🌱 I’m currently learning **nextjs, flutter, and frontend technology**
-
+- 🚀 I am a Fullstack and Mobile App developer
 - 😄 Pronouns: He/Him
 
 - 📫 How to reach me **https://linktr.ee/syrsdev**
