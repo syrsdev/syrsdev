@@ -24,4 +24,4 @@
 ### Top Languages in My Repositories📊 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syrsdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Trophy ✨
-[![trophy](https://github-profile-trophy.vercel.app/?username=syrsdev)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=syrsdev)](https://github.com/syrsdev)
