@@ -21,7 +21,36 @@
 <img src="https://www.codewars.com/users/syrsdev/badges/small">
 
 [![@suryanataa's Holopin board](https://holopin.me/suryanataa)](https://holopin.io/@suryanataa)
-### Top Languages in My Repositories📊 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syrsdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-### Trophy ✨
-[![trophy](https://github-profile-trophy.vercel.app/?username=syrsdev)](https://github.com/syrsdev)
+
+### GitHub Analytics
+
+<div align="center">
+
+<!-- STATS: using github-readme-stats-fast (cache_seconds=60, most reliable fork) -->
+<img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=syrsdev&show_icons=true&hide_border=true&bg_color=111111&title_color=DC503C&icon_color=DC503C&text_color=8a8580&ring_color=DC503C&count_private=true&include_all_commits=true&cache_seconds=60" alt="GitHub Stats"/>
+&nbsp;
+<!-- TOP LANGS: using github-readme-stats-fast -->
+<img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=syrsdev&layout=compact&hide_border=true&bg_color=111111&title_color=DC503C&text_color=8a8580&langs_count=8&cache_seconds=60" alt="Top Languages"/>
+
+<br/><br/>
+
+<!-- STREAK: demolab is separate and more stable -->
+<img width="65%" src="https://streak-stats.demolab.com/?user=syrsdev&hide_border=true&background=111111&ring=DC503C&fire=DC503C&currStreakLabel=DC503C&sideLabels=8a8580&dates=4a4845&sideNums=f0ece8&currStreakNum=ffffff&stroke=DC503C" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH: using github-readme-activity-graph -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=syrsdev&bg_color=111111&color=DC503C&line=8a2020&point=f0ece8&area=true&hide_border=true&area_color=3d0000" alt="Activity Graph"/>
+
+<br/><br/>
+
+<!-- PROFILE SUMMARY CARDS — separate reliable provider -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syrsdev&theme=github_dark" alt="Stats"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syrsdev&theme=github_dark" alt="Repos per Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syrsdev&theme=github_dark" alt="Most Commit Language"/>
+
+</div>
+
+<br/>
+
+---
