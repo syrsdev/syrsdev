@@ -3,7 +3,7 @@
 
 <p align="center">
 🚀 Building scalable web & mobile apps <br/>
-🌱 Currently learning <b>Next.js, Flutter, and Golang</b>
+🌱 Currently learning <b>Nest JS & Micro-Services</b>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=syrsdev&color=blue"/>
