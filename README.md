@@ -37,12 +37,12 @@
 
 ### 💻 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,ts,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,ts,bootstrap,tailwind,react,nextjs" />
 </p>
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,golang" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,golang" />
 </p>
 
 ### 📱 Mobile
@@ -52,7 +52,7 @@
 
 ### 🗄 Database & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,graphql,git,rabbitmq,figma" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,graphql,figma,firebase,rabbitmq,git,docker,prisma,postman" />
 </p>
 
 ---
