@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/suryanataardhana" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://instagram.com/nata_ardhana" target="_blank">
+<a href="https://instagram.com/syrsdev" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 <a href="https://linktr.ee/syrsdev" target="_blank">
