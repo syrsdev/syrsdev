@@ -15,8 +15,9 @@
 - ⚡ Focus on building scalable and clean architecture systems  
 - 🎯 Interested in Web Development, Mobile Apps, and Real-time Systems  
 - 😄 Pronouns: He/Him  
-
----
+<a href="https://syrsdev.vercel.app/" target="_blank">
+  <p align="left">SYRSDEV PORTFOLIO</p>
+</a>
 
 ## 🔗 Connect With Me
 <p align="left">
@@ -26,12 +27,7 @@
 <a href="https://instagram.com/syrsdev" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-<a href="https://linktr.ee/syrsdev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linktree" height="40"/>
-</a>
 </p>
-
----
 
 ## 🛠 Tech Stack
 
