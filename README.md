@@ -59,9 +59,8 @@
 <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=syrsdev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=syrsdev&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </p>
-
 <p align="center">
-<img width="60%" src="https://streak-stats.demolab.com/?user=syrsdev&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=syrsdev&theme=blueberry" alt="GitHub Streak" /></a>
 </p>
 
 ---
